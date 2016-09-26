@@ -26,3 +26,4 @@
 - [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
+- [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
